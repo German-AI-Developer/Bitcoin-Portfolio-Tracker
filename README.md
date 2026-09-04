@@ -33,5 +33,7 @@ Since this is a client-side web application, you can also run it locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/German-AI-Developer/Bitcoin-Portfolio-Tracker.git](https://github.com/German-AI-Developer/Bitcoin-Portfolio-Tracker<img width="1890" height="942" alt="image" src="https://github.com/user-attachments/assets/945d3f4f-3fd4-4fb9-96ac-fca186addd92" />
-.git)
+   git clone [https://github.com/German-AI-Developer/Bitcoin-Portfolio-Tracker.git](https://github.com/German-AI-Developer/Bitcoin-Portfolio-Tracker.git)
+   
+   <img width="1885" height="922" alt="SatoshiTracker-Interface" src="https://github.com/user-attachments/assets/04e352ce-27f7-4870-bf1c-8e5ba32bcd2c" />
+
