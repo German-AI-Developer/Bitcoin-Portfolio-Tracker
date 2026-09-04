@@ -4,7 +4,7 @@ A privacy-focused, client-side web application to track your Bitcoin portfolio a
 
 🌐 **Official Live Application:** [https://satoshitracker.de](https://satoshitracker.de)
 
----
+---![SatoshiTracker Interface](https://github.com/user-attachments/assets/04e352ce-27f7-4870-bf1c-8e5ba32bcd2c)
 
 ## 🌟 Key Features
 
@@ -35,5 +35,5 @@ Since this is a client-side web application, you can also run it locally:
    ```bash
    git clone [https://github.com/German-AI-Developer/Bitcoin-Portfolio-Tracker.git](https://github.com/German-AI-Developer/Bitcoin-Portfolio-Tracker.git)
    
-   <img width="1885" height="922" alt="SatoshiTracker-Interface" src="https://github.com/user-attachments/assets/04e352ce-27f7-4870-bf1c-8e5ba32bcd2c" />
+
 
